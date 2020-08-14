@@ -1,0 +1,26 @@
+_repo: Poems_62833
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, Marianne
+    alias: Moore, Marianne Craig
+    birthdate: 1887
+    deathdate: 1972
+    gutenberg_agent_id: '52148'
+    url: http://www.gutenberg.org/2009/agents/52148
+    wikipedia: https://en.wikipedia.org/wiki/Marianne_Moore
+description: ''
+gutenberg_issued: '2020-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/62833
